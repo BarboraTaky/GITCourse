@@ -1,1 +1,1 @@
-Adding functionality C.
+Functionality C version 2.0.

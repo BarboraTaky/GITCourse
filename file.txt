@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Alex has a cat.
-
-Adding new, experimental functionality.
-
-=======
->>>>>>> parent of aac05a0 (Change in file, replacing with a new version.)
